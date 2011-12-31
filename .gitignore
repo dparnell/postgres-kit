@@ -1,1 +1,5 @@
 .svn
+
+.DS_Store
+postgresql.xcodeproj/xcuserdata/
+postgresql.xcodeproj/project.xcworkspace/
